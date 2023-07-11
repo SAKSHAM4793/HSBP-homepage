@@ -1,0 +1,80 @@
+.Footer{
+    background: url("https://media.discordapp.net/attachments/1121751668304920610/1123114452854775858/MaskGroup2.webp?width=1440&height=491");
+    height: 33vw;
+}
+.Footer-1{
+    display: flex;
+    height: 20vw;
+}
+.Footer-a-1{
+    width: 28%;
+    padding-left: 6vw;
+    margin-top: 2vw;
+    
+}
+
+.Footer-a-2{
+    width: 25%;
+}
+.Footer-a-2>p,.Footer-a-3>p,.Footer-a-4>p{
+    font-size: 1.2vw;
+    line-height: 1vw;
+    color: #322c2cd6;
+
+}
+.Footer-a-4>h3{
+font-size: 1.5vw;
+}
+
+.Footer-a-3{
+    width: 25%;
+}
+
+
+.Footer-a-4{
+    width: 20%;
+  
+}
+.f-icons{
+    font-size: 2.3vw !important;
+    color: #8B2E5D !important;
+    
+}
+
+.state-name{
+    height: 5vw;
+}
+.state-name>p{
+    text-align: center;
+    font-size: 1.2vw;
+    color: #322c2cd6;
+
+}
+.Footer-2{
+    display: flex;
+}
+.Footer-2>p{
+    width: 33.33%;
+    text-align: center;
+    font-size: 1.2vw;  
+      color: #322c2cd6;
+    
+}
+.Footer-a-1>img {
+    width: 16vw;
+    height: 5vw;
+}
+
+.Footer-a-1>p{
+    height: 1vw;
+    font-size: 1.2vw;
+    margin-right: 6vw;
+    /* line-height: 0.6vw; */
+    color: #322c2ce0;
+
+}
+.CopyRight>p{
+    text-align: center;
+    font-size: 1.2vw;
+    color: #322c2ce0;
+}

@@ -1,0 +1,282 @@
+*{
+    font-family: initial;
+    /* padding: 0 3vw 0 3vw; */
+    scroll-behavior: smooth;
+}
+
+.text-b-1 {
+    width: auto;
+    height: 2vw;
+    text-align: center;
+    font: normal normal normal 4vw/0.2vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+}
+
+.text-b-2 {
+    width: auto;
+    text-align: center;
+    font: normal normal normal 2vw/2.1vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+    margin-top: -3vw;
+}
+
+.text-b-3 {
+    
+    height: 0.3vw;
+    font-size: 1.5vw;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+}
+
+.text-b-4{
+    font-size: 2vw;
+    float: right;
+    color: #561334;
+    margin-right: 4vw;
+    text-decoration: underline;
+}
+.icons{
+    margin-left: 10px;
+    font-size: 19px;
+    color: #561334;
+}
+
+.icons-1 {
+    margin-left: -103;
+    color: transparent linear-gradient(180deg, #993680 0%, #2F1A59 100%) 0% 0% no-repeat padding-box;
+}
+
+.mycard {
+    min-width: 21.4vw;
+    max-width: 21.4vw;
+    height: 36vw;
+    /* background: #d7b5b5 0% 0% no-repeat padding-box; */
+    color: black;
+    border-radius: 2vw;
+    background: url(https://media.discordapp.net/attachments/1121751668304920610/1122073410508431440/Mask_Group_88.png) #dcdada 0% 0% no-repeat padding-box;
+    background-repeat: no-repeat;
+    margin: 1vw;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+   
+}
+
+.B-product-carousel{
+    position: relative;
+    overflow: hidden;
+    margin: 0 3vw 0 3vw;
+    
+}
+
+.b-product-container {
+    padding: 0 10px;
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    
+}
+
+.pre-btn,
+.next-btn {
+    border: none;
+    width: 5vw;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+.next-btn {
+    right: 0;
+}
+
+.next-btn p,
+.pre-btn p {
+    font-size: 27px;
+    background-color: white;
+    box-shadow: 0px 0px 10px 1px black;
+    border-radius: 50%;
+    color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.my-card-img {
+    width: 18.3vw;
+    height: 22vw;
+    margin: 1.7vw;
+    
+}
+
+.my-card-product {
+    color: #8B2E5D;
+    text-align: center;
+    margin-top: -2vw;
+    font-size: 1.8vw;
+}
+.my-card-description {
+    font-size: 1.3vw;
+    text-align: center;
+  
+}
+.my-card-description-1 {
+    text-align: center;
+    margin-top: -1vw;
+    font-size: 1.3vw;
+}
+
+.my-card-button {
+    margin-left: 5vw;
+    text-align: center;
+    width: 12vw;
+    height: 2.5vw;
+    background: transparent linear-gradient(253deg, #993680 0%, #2F1A59 81%) 0% 0% no-repeat padding-box;
+    border-radius: 2vw;
+    opacity: 1;
+    border: none;
+    color: white;
+    font-size: 1vw;
+}
+
+.a-text-1{
+    width: auto;
+    height: 2vw;
+    text-align: center;
+    font: normal normal normal 4vw/0.2vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+}
+
+.a-text-2{
+    width: auto;
+    text-align: center;
+    font: normal normal normal 1.7vw/2.1vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+    margin-top: -3vw;
+   
+}
+.appointment-contact{
+    background: url('../Beautys/image/Group\ 7128.webp');
+    background-size: 'cover';
+    background-repeat: 'no-repeat';
+    background-position: 'center';
+    width:auto;
+    height: 400px;
+}
+.a-c-button{
+    
+    text-align: center;
+    width: 150px;
+    height: 46px;
+    /* UI Properties */
+    background: white;
+    border-radius: 15px;
+    opacity: 1;
+    border: none;
+    color: black;
+    font-size: 20px; 
+}
+.appointment-contact-1{
+    padding: 100px;
+    color: white;
+}
+.a-c-text3{
+    font: 32px;
+}
+
+.beauty-packages{
+    background: url('../Beautys/image/images\ background\ 1.png');
+    background-size: 'cover';
+    background-repeat: 'no-repeat';
+    background-position: 'center';
+    width:auto;
+    height: 50vw;
+    margin-top: 4vw;
+}
+
+.myCard-1{
+    min-width: 22vw;
+    max-width: 300px;
+    height: 30vw;
+    background: white 0% 0% no-repeat padding-box;
+    margin: 1vw;
+    color: black;
+    border-radius: 2vw;
+    margin-top: 5vw;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     
+}
+.mycard-b-1{
+    position: relative;
+    overflow: hidden;
+    padding: 26px;
+    
+}
+.mycard-b-2{
+    padding: 0 10px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-content: center;
+    /* justify-content: space-between; */
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    
+
+}
+
+.my-card-img-1{
+    width: 13vw;
+    height: 14vw;
+    margin: 8px;
+    align-items: center;
+    margin-left: 5vw;
+    margin-inline-end: auto;
+    margin-top: -5vw;
+
+}
+    
+
+.my-card-product-2{
+   color: #8B2E5D;
+    text-align: center;
+    margin-top: -1vw;
+    font-size: 1.8vw;
+}
+.myCard-1>p{
+    text-align: center;
+    margin-top: -1vw;
+    font-size: 1.2vw;
+}
+.b-p-text1{
+    width: auto;
+    height: 2vw;
+    text-align: center;
+    font: normal normal normal 4vw/0.2vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+    padding-top: 3.5vw;
+}
+
+.beauty-packages>p{
+    width: auto;
+    text-align: center;
+    font: normal normal normal 1.7vw/0vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+}
+

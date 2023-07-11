@@ -1,0 +1,138 @@
+.text-p-1 {
+    width: auto;
+    height: 6vw;
+    text-align: center;
+    font: normal normal normal 4vw/4.2vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+}
+
+.text-p-2 {
+    width: auto;
+    text-align: center;
+    font: normal normal normal 2vw/2.1vw Poppins;
+    letter-spacing: 0px;
+    color: #0F0D0E;
+    opacity: 1;
+    margin-top: -5vw;
+}
+
+.red {
+    background-color: #C8052C;
+}
+
+.orange {
+    background-color: #ff6f00;
+}
+
+.purple {
+    background-color: #8B2E5D;
+}
+
+.yellow {
+    background-color: #FFBD07;
+}
+
+.red{
+    background-color: #d32f2f;
+}
+
+
+.card-title{
+     
+    justify-content: center;
+   
+
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    min-width: 26vw;
+    max-width: 26vw;
+    height: 448px;
+    height: 32vw;
+    /* background: #D51E4A 0% 0% no-repeat padding-box; */
+    margin: 2vw;
+    color: black;
+    border-radius: 2vw;
+    box-shadow: #cb96a3a1 10px 10px;
+
+    
+   
+   
+}
+.Card1{
+    position: relative;
+    overflow: hidden;
+    padding: 26px;
+    padding: 0 10px;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 2vw;
+    padding: 1vw;
+    
+    
+
+}
+
+.Card2{
+    position: relative;
+    overflow: hidden;
+    padding: 26px;
+    padding: 0 10px;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    display: flex;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    
+}
+.card_info {
+    text-align: center;
+    margin-top: 2vw;
+}
+
+.card_img {
+    margin-top: 2vw;
+    width: 16vw;
+    height: 18vw;
+    text-align: center;
+}
+
+.card_info>span {
+    font-size: 2.5vw;
+    color: #FFFFFF;
+}
+.card_info>h3 {
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.card_category {
+    text-align: center;
+   
+    padding-top: 50px;
+    font: normal normal normal 22px/38px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.card_title {
+    margin-top: 1vw;
+    font: normal normal normal 1.5vw/0.5vw Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+@media screen and (max-width: 500px){
+    .cards {
+        display: flex;}
+}
