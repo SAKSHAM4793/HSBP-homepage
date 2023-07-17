@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/HSBP-homepage/static/css/main.050303af.css",
-    "main.js": "/HSBP-homepage/static/js/main.bf3fb349.js",
+    "main.css": "/HSBP-homepage/static/css/main.8c4b5ccf.css",
+    "main.js": "/HSBP-homepage/static/js/main.816ab256.js",
     "static/js/787.3aa68a5b.chunk.js": "/HSBP-homepage/static/js/787.3aa68a5b.chunk.js",
     "static/media/images background 1.png": "/HSBP-homepage/static/media/images background 1.7cbfb950761dbd394c05.png",
     "static/media/Group 7128.webp": "/HSBP-homepage/static/media/Group 7128.f3a259971dd34f1c8ef2.webp",
     "static/media/Layer 58.png": "/HSBP-homepage/static/media/Layer 58.d6f31b224dcd955fd034.png",
     "static/media/Mask Group 156.png": "/HSBP-homepage/static/media/Mask Group 156.a5bdb71e15309a2eabc0.png",
     "index.html": "/HSBP-homepage/index.html",
-    "main.050303af.css.map": "/HSBP-homepage/static/css/main.050303af.css.map",
-    "main.bf3fb349.js.map": "/HSBP-homepage/static/js/main.bf3fb349.js.map",
+    "main.8c4b5ccf.css.map": "/HSBP-homepage/static/css/main.8c4b5ccf.css.map",
+    "main.816ab256.js.map": "/HSBP-homepage/static/js/main.816ab256.js.map",
     "787.3aa68a5b.chunk.js.map": "/HSBP-homepage/static/js/787.3aa68a5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.050303af.css",
-    "static/js/main.bf3fb349.js"
+    "static/css/main.8c4b5ccf.css",
+    "static/js/main.816ab256.js"
   ]
 }
